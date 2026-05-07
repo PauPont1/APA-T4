@@ -1,4 +1,4 @@
-"""Cuarta tarea de APA 2023: Generación de números aleatorios.
+"""Cuarta tarea de APA 2026: Generación de números aleatorios.
 
 Alumno: Pau Pont Camp
 
