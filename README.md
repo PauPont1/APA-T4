@@ -71,9 +71,9 @@ python -m doctest -v aleatorios.py
 ## Código desarrollado
 
 ```python
-"""Cuarta tarea de APA 2023: Generación de números aleatorios.
+"""Cuarta tarea de APA 2026: Generación de números aleatorios.
 
-Alumno: Fulano Mengano Zutano
+Alumno: Pau Pont Camp
 
 Este módulo implementa un generador lineal congruente de números
 pseudoaleatorios mediante una clase iterable, Aleat, y una función
